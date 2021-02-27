@@ -1,0 +1,12 @@
+src/ai/consoles/FakeConsole.java:1:	ExcessivePublicCount: This class has a bunch of public methods and attributes
+src/ai/consoles/FakeConsole.java:1:	ExcessivePublicCount: This class has a bunch of public methods and attributes
+src/ai/consoles/UserConsole.java:50:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/ai/consoles/UserConsole.java:50:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/commands/CommandMap.java:15:	CommentRequired: Public method and constructor comments are required
+src/commands/CommandMap.java:15:	CommentRequired: Public method and constructor comments are required
+src/commands/CommandMap.java:15:	MethodArgumentCouldBeFinal: Parameter 'commands' is not assigned and could be declared final
+src/commands/CommandMap.java:15:	MethodArgumentCouldBeFinal: Parameter 'commands' is not assigned and could be declared final
+src/commands/CommandMap.java:15:	UnusedFormalParameter: Avoid unused constructor parameters such as 'commands'.
+src/commands/CommandMap.java:15:	UnusedFormalParameter: Avoid unused constructor parameters such as 'commands'.
+src/commands/CommandMap.java:16:	UnusedLocalVariable: Avoid unused local variables such as 'commandsMap'.
+src/commands/CommandMap.java:16:	UnusedLocalVariable: Avoid unused local variables such as 'commandsMap'.
